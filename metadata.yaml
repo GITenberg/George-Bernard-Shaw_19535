@@ -1,0 +1,34 @@
+_repo: George-Bernard-Shaw_19535
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19535-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: Personal friends but philosophical opponents, Shaw and Chesterton had
+  in their day great debates in print and in person that were both entertaining and
+  notorious. In Chesterton's provocative biography of the playwright, he reveals keen
+  insights into Shaw, his literary works, and his political and philosophical views.
+  In equal parts witty and perceptive, the book illuminates both men in the process.
+gutenberg_issued: '2006-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shaw, Bernard, 1856-1950 -- Criticism and interpretation'
+- !lcc 'PR'
+title: George Bernard Shaw
+url: http://www.gutenberg.org/ebooks/19535
